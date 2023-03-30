@@ -1,0 +1,59 @@
+head{
+    text-align: center;
+}
+.row{
+    margin-top:7%;
+    margin-left: 3px;
+    
+    
+}
+
+
+.col{
+    margin-left: 90px;
+    margin-right:10px;
+    
+    padding:2px;
+   display:block;
+    
+   
+}
+.toButton{
+    background-color: #273f44;
+    padding: 20px;
+    border-radius: 5%;
+    border: 0;
+}
+.date{
+    background-color: #273f44;
+    border: 0;
+    width: 130px;
+    color: azure;
+    font-weight: bold;
+
+
+}
+.dateModel{
+    margin-top: 40px;
+    background-color: #ebeef3;
+}
+.cont{
+    margin-left: 10%;
+    text-align: center;
+}
+.cont1{
+    margin-right: 10%;
+    text-align: center;
+}
+.submit{
+    background-color: green;
+    color: azure;
+    width: 130px;
+    margin-top: 50px;
+    height: 60px;
+    border: 0;
+    border-radius: 5%;
+    font-weight: bold;
+    margin-right: 20%;
+
+}
